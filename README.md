@@ -1,7 +1,10 @@
 # Stroke-Prediction---ML
-Stroke is a disease that affects the arteries leading to and within the brain. 
+Stroke is a disease that affects the arteries leading to and within the brain.
+
 Context
+
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally.  This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient. 
+
 Attribute Information 
 1. id:unique identifier 
 2. gender: "Male", "Female" or "Other" 
